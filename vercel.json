@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/reader.html", "destination": "/", "permanent": true }
+  ]
+}
